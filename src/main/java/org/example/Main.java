@@ -9,5 +9,6 @@ public class Main {
         System.out.println("changes in feature local");
         System.out.println("Change made in Master Remote");
         System.out.println("changes in feature local2");
+        System.out.println("changes in feature local3");
     }
 }
