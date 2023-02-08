@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("Stage 1:Initial");
+        System.out.println("changes in feature local");
         System.out.println("Change made in Master Remote");
     }
 }
